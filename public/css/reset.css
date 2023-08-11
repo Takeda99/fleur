@@ -1,0 +1,75 @@
+/* ユーザーエージェントスタイルのリセット */
+body, h1, h2, h3, h4, h5, h6, p, blockquote, pre, dl, dd, ol, ul, figure, hr {
+    margin: 0;
+    padding: 0;
+  }
+  
+  /* リストスタイルをリセット */
+  ul, ol {
+    list-style: none;
+  }
+  
+  /* リンクスタイルをリセット */
+  a {
+    text-decoration: none;
+  }
+  
+  /* 要素間の空白を除去 */
+  body {
+    line-height: 1.5;
+  }
+  
+  /* インライン要素の余白を除去 */
+  img, iframe, video, audio, object, embed {
+    display: inline-block;
+    vertical-align: middle;
+    max-width: 100%;
+  }
+  
+  /* 画像などの置換要素をブロック要素として扱う */
+  img, iframe, video, audio, object, embed {
+    display: block;
+  }
+  
+  /* 全体のボックスサイズを変更しない */
+  *, *::before, *::after {
+    box-sizing: border-box;
+  }
+  
+  /* 見出しの余白を調整 */
+  h1, h2, h3, h4, h5, h6 {
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+  }
+  
+  /* パラグラフの余白を調整 */
+  p {
+    margin-bottom: 1rem;
+  }
+  
+  /* ボーダーのデフォルトスタイルを設定 */
+  hr {
+    border: none;
+    border-top: 1px solid #ccc;
+    margin: 1rem 0;
+  }
+  
+  /* リンクの色を設定 */
+  a {
+    color: #007bff;
+  }
+  
+  /* ボタン要素のスタイルをリセット */
+  button {
+    border: none;
+    background: none;
+    padding: 0;
+    cursor: pointer;
+  }
+  
+  /* テキストの選択時の背景色を設定 */
+  ::selection {
+    background-color: #007bff;
+    color: #fff;
+  }
+  
