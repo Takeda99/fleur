@@ -59,5 +59,32 @@
             </div>
         </div>
     </div>
+    <div class="main3">
+        <div class="main_concept">
+            <h2>News</h2>
+            <p>お知らせ</p>
+            <div class="news_txt">
+                <a href="">・感染対策のお願い</a>
+            </div>
+        </div>
+    </div>
+    <div class="main4">
+        <div class="main_concept">
+            <h2>LessonMenu</h2>
+            <p>レッスンメニュー</p>
+            <div class="afl">
+                <div class="afl_p"></div>
+                <div class="afl_t">
+                    <h1>Artificial flower Lesson</h1>
+                </div>
+            </div>
+            <div class="afl2">
+                <p>体験レッスン:￥3,800</p>
+                <p>リクエストレッスン:￥2,800+花材</p>
+                <p id="afl_txt_r">※ 花材の持ち込みOK、教室にて30%offで販売も致しております。</p>
+            </div>
+            <div class="afl_btn"></div>
+        </div>
+    </div>
 </body>
 </html>

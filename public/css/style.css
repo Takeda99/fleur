@@ -131,7 +131,6 @@
     .story11{
         width: 50%;
         height: 175px;
-        background-color: aqua;
         border-radius: 5px;
         background-image: url("../img/story2.jpg");
         background-size: cover; /* 画面いっぱいに広がるように調整 */
@@ -155,6 +154,84 @@
         color: rgb(70, 70, 70);
         font-size: 12px;
         margin-top: -5px;
+    }
+
+    .main3{
+        background-image: url("../img/main_photo.jpg");
+        background-size: cover; /* 画面いっぱいに広がるように調整 */
+        background-position: center; /* 画像を中央に配置 */
+        width: 100%; /* 要素の幅を100%に設定 */
+        padding: 10px;
+    }
+    .news_txt{
+        width: 100%;
+        height: 175px;
+        background-color: rgba(255, 255, 255, 0.3);
+        border-radius: 5px;
+        text-shadow: 1px 2px 3px #cbcbcb;
+        padding: 5px;
+    }
+    .news_txt a{
+        color: rgb(70, 70, 70);
+        font-size: 15px;
+        margin-top: -5px;
+        text-decoration: underline;
+    }
+
+    .main4{
+        background-image: url("../img/main_photo.jpg");
+        background-size: cover; /* 画面いっぱいに広がるように調整 */
+        background-position: center; /* 画像を中央に配置 */
+        width: 100%; /* 要素の幅を100%に設定 */
+        padding: 10px;
+    }
+    .afl{
+        width: 100%;
+        height: 175px;
+        background-color: rgba(255, 255, 255, 0.3);
+        border-radius: 5px;
+        display: flex;
+        justify-content: center;
+    }
+    .afl_p{
+        width: 50%;
+        height: 175px;
+        border-radius: 5px;
+        background-image: url("../img/afl.jpeg");
+        background-size: cover; /* 画面いっぱいに広がるように調整 */
+        background-position: center; /* 画像を中央に配置 */
+    }
+    .afl_t{
+        width: 50%;
+        height: 175px;
+        border-radius: 5px;
+        margin-left: 10px;
+        color: rgb(70, 70, 70);
+        font-size: 13px;
+    }
+    .afl2{
+        padding:15px;
+        width: 100%;
+        height: 175px;
+        background-color: rgba(255, 255, 255, 0.3);
+        border-radius: 5px;
+    }
+    .afl2 p{
+        color: rgb(70, 70, 70);
+        font-size: 14px;
+        font-weight: 600;
+    }
+    #afl_txt_r{
+        color: rgb(70, 70, 70);
+        font-size: 12px;
+        font-weight: 200;
+    }
+    .afl_btn{
+        margin-top: -30px;
+        border-radius: 5px;
+        width: 100%;
+        height:30px;
+        background-color: rgba(0, 0, 0, 0.2);
     }
 }
 
