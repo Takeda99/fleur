@@ -83,7 +83,37 @@
                 <p>リクエストレッスン:￥2,800+花材</p>
                 <p id="afl_txt_r">※ 花材の持ち込みOK、教室にて30%offで販売も致しております。</p>
             </div>
-            <div class="afl_btn"></div>
+            <div class="afl_btn">LINEで予約</div>
+
+            <div class="cl">
+                <div class="cl_p"></div>
+                <div class="cl_t">
+                    <h1>Cours Lesson</h1>
+                </div>
+            </div>
+            <div class="cl2">
+                <p id="cl_txt_r" style="color:red; margin-bottom: -2px;">お得なコースレッスン！</p>
+                <p>Atelier Fleurベーシックコース:¥28,000(全4回)</p>
+                <p id="cl_txt_r" style="color:red; margin-bottom: -2px;">ディプロマ取得を目指す！</p>
+                <p>Atelier Fleurデザインコース:¥104,000(全8回)</p>
+                <p id="cl_txt_r">※ ディプロマにはベーシックコース、デザインコースを終了された後、試験がございます。試験には別途費用が必要です。</p>
+            </div>
+            <div class="cl_btn" style="margin-bottom: 0px;">LINEで予約</div>
+
+            <div class="cl">
+                <div class="cl_p"></div>
+                <div class="cl_t">
+                    <h1>Cours Lesson</h1>
+                </div>
+            </div>
+            <div class="cl2">
+                <p id="cl_txt_r" style="color:red; margin-bottom: -2px;">お得なコースレッスン！</p>
+                <p>Atelier Fleurベーシックコース:¥28,000(全4回)</p>
+                <p id="cl_txt_r" style="color:red; margin-bottom: -2px;">ディプロマ取得を目指す！</p>
+                <p>Atelier Fleurデザインコース:¥104,000(全8回)</p>
+                <p id="cl_txt_r">※ ディプロマにはベーシックコース、デザインコースを終了された後、試験がございます。試験には別途費用が必要です。</p>
+            </div>
+            <div class="cl_btn" style="margin-bottom: 0px;">LINEで予約</div>
         </div>
     </div>
 </body>
