@@ -232,6 +232,69 @@
         width: 100%;
         height:30px;
         background-color: rgba(0, 0, 0, 0.2);
+        color: rgb(0, 185, 0);
+        font-size: 15px;
+        text-align: center;
+        padding: 3px;
+        font-weight: bold;
+    }
+
+
+    .cl{
+        margin-top: 30px;
+        width: 100%;
+        height: 175px;
+        background-color: rgba(255, 255, 255, 0.3);
+        border-radius: 5px;
+        display: flex;
+        justify-content: center;
+    }
+    .cl_p{
+        margin-top: 1px;
+        width: 50%;
+        height: 175px;
+        border-radius: 5px;
+        background-image: url("../img/cl.png");
+        background-size: cover; /* 画面いっぱいに広がるように調整 */
+        background-position: center; /* 画像を中央に配置 */
+    }
+    .cl_t{
+        width: 50%;
+        height: 175px;
+        border-radius: 5px;
+        margin-left: 10px;
+        color: rgb(70, 70, 70);
+        font-size: 13px;
+    }
+    .cl2{
+        padding:15px;
+        width: 100%;
+        height: 180px;
+        background-color: rgba(255, 255, 255, 0.3);
+        border-radius: 5px;
+        margin-bottom: 30px;
+    }
+    .cl2 p{
+        color: rgb(70, 70, 70);
+        font-size: 14px;
+        font-weight: 600;
+    }
+    #cl_txt_r{
+        color: rgb(70, 70, 70);
+        font-size: 12px;
+        font-weight: 200;
+    }
+    .cl_btn{
+        margin-top: -30px;
+        border-radius: 5px;
+        width: 100%;
+        height:30px;
+        background-color: rgba(0, 0, 0, 0.2);
+        color: rgb(0, 185, 0);
+        font-size: 15px;
+        text-align: center;
+        padding: 3px;
+        font-weight: bold;
     }
 }
 
