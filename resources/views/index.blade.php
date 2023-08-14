@@ -165,20 +165,28 @@
 
     <div class="main5">
         <div class="main_concept5">
-            <p>Atelier Fleurの情報から個人的な日常まで</p>
+            <p id="btn_txt">Atelier Fleurの情報から個人的な日常まで</p>
             <h2>Blog</h2>
         </div>
         <div class="main_concept5_1">
-            <p>Atelier Fleur</p>
+            <p id="btn_txt">Atelier Fleur</p>
             <h2>Online Shop</h2>
         </div>
     </div>
     <div class="main6">
         <div class="main_concept6">
             <h2>Guide</h2>
-            <p>教室案内</p>
-            <div class="news_txt">
-                <a href="">・感染対策のお願い</a>
+            <p style="font-size: 18px;color: white;
+            text-shadow: 1px 2px 3px #cbcbcb;
+            font-weight: 300;">教室案内</p>
+            <div class="news_txt2">
+                <p>住所:滋賀県甲賀市水口町</p>
+                <p>電話:090-8163-4612</p>
+                <p>営業時間</p>
+                <p>　【平日】9:00〜17:00</p>
+                <p>　【土日】要相談</p>
+                <p>駐車場:1Pあり</p>
+                <p id="cafl_txt_r">※最寄り駅JR三雲駅、貴生川駅より車で10分</p>
             </div>
         </div>
     </div>
