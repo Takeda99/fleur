@@ -269,7 +269,7 @@
     .cl2{
         padding:15px;
         width: 100%;
-        height: 180px;
+        height: 200px;
         background-color: rgba(255, 255, 255, 0.3);
         border-radius: 5px;
         margin-bottom: 30px;
@@ -295,6 +295,224 @@
         text-align: center;
         padding: 3px;
         font-weight: bold;
+    }
+
+    .cf{
+        margin-top: 30px;
+        width: 100%;
+        height: 175px;
+        background-color: rgba(255, 255, 255, 0.3);
+        border-radius: 5px;
+        display: flex;
+        justify-content: center;
+    }
+    .cf_p{
+        margin-top: 1px;
+        width: 50%;
+        height: 175px;
+        border-radius: 5px;
+        background-image: url("../img/cf.png");
+        background-size: cover; /* 画面いっぱいに広がるように調整 */
+        background-position: center; /* 画像を中央に配置 */
+    }
+    .cf_t{
+        width: 50%;
+        height: 175px;
+        border-radius: 5px;
+        margin-left: 10px;
+        color: rgb(70, 70, 70);
+        font-size: 13px;
+    }
+    .cf2{
+        padding:15px;
+        width: 100%;
+        height: 260px;
+        background-color: rgba(255, 255, 255, 0.3);
+        border-radius: 5px;
+        margin-bottom: 30px;
+    }
+    .cf2 p{
+        color: rgb(70, 70, 70);
+        font-size: 14px;
+        font-weight: 600;
+    }
+    #cf_txt_r{
+        color: rgb(70, 70, 70);
+        font-size: 12px;
+        font-weight: 200;
+    }
+    .cf_btn{
+        margin-top: -30px;
+        border-radius: 5px;
+        width: 100%;
+        height:30px;
+        background-color: rgba(0, 0, 0, 0.2);
+        color: rgb(0, 185, 0);
+        font-size: 15px;
+        text-align: center;
+        padding: 3px;
+        font-weight: bold;
+    }
+    #cf_txt_r_2{
+        margin-bottom: 3px;
+    }
+    #cf_txt_r_3{
+        margin-top: 3px;
+    }
+
+    .main4_2{
+        background-image: url("../img/main_photo.jpg");
+        background-size: cover; /* 画面いっぱいに広がるように調整 */
+        background-position: center; /* 画像を中央に配置 */
+        width: 100%; /* 要素の幅を100%に設定 */
+        padding: 10px;
+        height: 1360px;
+    }
+    .main_concept_2 h2{
+        font-size: 30px;
+        text-decoration: underline;
+        margin-bottom: 0px;
+        color: white;
+        text-decoration-color: white;
+        text-shadow: 1px 2px 3px #cbcbcb;
+    }
+
+    .cafl{
+        width: 100%;
+        height: 175px;
+        background-color: rgba(255, 255, 255, 0.3);
+        border-radius: 5px;
+        display: flex;
+        justify-content: center;
+        margin-top: 30px;
+    }
+    .cafl_p{
+        width: 50%;
+        height: 175px;
+        border-radius: 5px;
+        background-image: url("../img/cafl.png");
+        background-size: cover; /* 画面いっぱいに広がるように調整 */
+        background-position: center; /* 画像を中央に配置 */
+    }
+    .cafl_t{
+        width: 50%;
+        height: 175px;
+        border-radius: 5px;
+        margin-left: 10px;
+        color: rgb(70, 70, 70);
+        font-size: 13px;
+    }
+    .cafl2{
+        padding:15px;
+        width: 100%;
+        height: 175px;
+        background-color: rgba(255, 255, 255, 0.3);
+        border-radius: 5px;
+    }
+    .cafl2 p{
+        color: rgb(70, 70, 70);
+        font-size: 14px;
+        font-weight: 600;
+    }
+    #cafl_txt_r{
+        color: rgb(70, 70, 70);
+        font-size: 12px;
+        font-weight: 200;
+        margin-top: -10px;
+    }
+    .cafl_btn{
+        margin-top: -30px;
+        border-radius: 5px;
+        width: 100%;
+        height:30px;
+        background-color: rgba(0, 0, 0, 0.2);
+        color: rgb(0, 185, 0);
+        font-size: 15px;
+        text-align: center;
+        padding: 3px;
+        font-weight: bold;
+    }
+
+    .aw{
+        margin-top: 30px;
+        width: 100%;
+        height: 175px;
+        background-color: rgba(255, 255, 255, 0.3);
+        border-radius: 5px;
+        display: flex;
+        justify-content: center;
+    }
+    .aw_p{
+        margin-top: 1px;
+        width: 50%;
+        height: 175px;
+        border-radius: 5px;
+        background-image: url("../img/aw.png");
+        background-size: cover; /* 画面いっぱいに広がるように調整 */
+        background-position: center; /* 画像を中央に配置 */
+    }
+    .aw_t{
+        width: 50%;
+        height: 175px;
+        border-radius: 5px;
+        margin-left: 10px;
+        color: rgb(70, 70, 70);
+        font-size: 13px;
+    }
+    .aw2{
+        padding:15px;
+        width: 100%;
+        height: 200px;
+        background-color: rgba(255, 255, 255, 0.3);
+        border-radius: 5px;
+        margin-bottom: 30px;
+    }
+    .aw2 p{
+        color: rgb(70, 70, 70);
+        font-size: 14px;
+        font-weight: 600;
+    }
+    #aw_txt_r{
+        color: rgb(70, 70, 70);
+        font-size: 12px;
+        font-weight: 200;
+    }
+    .aw_btn{
+        margin-top: -30px;
+        border-radius: 5px;
+        width: 100%;
+        height:30px;
+        background-color: rgba(0, 0, 0, 0.2);
+        color: rgb(0, 185, 0);
+        font-size: 15px;
+        text-align: center;
+        padding: 3px;
+        font-weight: bold;
+    }
+
+    .main5{
+        background-image: url("../img/main_photo.jpg");
+        background-size: cover; /* 画面いっぱいに広がるように調整 */
+        background-position: center; /* 画像を中央に配置 */
+        width: 100%; /* 要素の幅を100%に設定 */
+        padding: 10px;
+        height: 1360px;
+    }
+    .main_concept5 h2{
+        font-size: 30px;
+        text-decoration: underline;
+        margin-bottom: 0px;
+        color: white;
+        text-decoration-color: white;
+        text-shadow: 1px 2px 3px #cbcbcb;
+    }
+    .main_concept5{
+        padding:15px;
+        width: 100%;
+        background-color: rgba(255, 255, 255, 0.3);
+        border-radius: 5px;
+        margin-bottom: 30px;
+        border: ridge;
     }
 }
 

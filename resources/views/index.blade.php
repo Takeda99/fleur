@@ -92,22 +92,76 @@
                 </div>
             </div>
             <div class="cl2">
-                <p id="cl_txt_r" style="color:red; margin-bottom: -2px;">お得なコースレッスン！</p>
+                <p id="cl_txt_r" style="color:red; margin-bottom: 0px;">お得なコースレッスン！</p>
                 <p>Atelier Fleurベーシックコース:¥28,000(全4回)</p>
-                <p id="cl_txt_r" style="color:red; margin-bottom: -2px;">ディプロマ取得を目指す！</p>
+                <p id="cl_txt_r" style="color:red; margin-bottom: 0px;">ディプロマ取得を目指す！</p>
                 <p>Atelier Fleurデザインコース:¥104,000(全8回)</p>
                 <p id="cl_txt_r">※ ディプロマにはベーシックコース、デザインコースを終了された後、試験がございます。試験には別途費用が必要です。</p>
             </div>
             <div class="cl_btn" style="margin-bottom: 0px;">LINEで予約</div>
+        </div>
+    </div>
+    <div class="main4_2">
+        <div class="main_concept_2">
+            <div class="cf">
+                <div class="cf_p"></div>
+                <div class="cf_t">
+                    <h1>Cara Fiore</br>認定 </br>Lesson</h1>
                 </div>
             </div>
-            <div class="cl2">
-                <p>Atelier Fleurベーシックコース:¥28,000(全4回)</p>
-                <p id="cl_txt_r" style="color:red; margin-bottom: -2px;">ディプロマ取得を目指す！</p>
-                <p>Atelier Fleurデザインコース:¥104,000(全8回)</p>
-                <p id="cl_txt_r">※ ディプロマにはベーシックコース、デザインコースを終了された後、試験がございます。試験には別途費用が必要です。</p>
+            <div class="cf2">
+                <p id="cf_txt_r" style="margin-bottom: 3px;">【アップルミントコレクション】</p>
+                <p id="cf_txt_r_2">アップルミントリース:¥11,000</p>
+                <p id="cf_txt_r_2">アップルミントツリー:¥11,000</p>
+                <p id="cf_txt_r_2">アップルミントトピアリー:¥11,000</p>
+                <p id="cf_txt_r" style="color: rgb(0, 185, 0); margin-bottom: 3px; margin-top: 16px;">Cara Fioreパートナー校を目指す!</p>
+                <p>アップルミント認定Lesson:¥45,000</p>
+                <p id="cf_txt_r">※認定レッスン受講後、ご希望の方にはCara Fioreのパートナー校にご登録頂き、ご自身の教室で認定レッスンと1dayレッスンを行なって頂けます。</p>
             </div>
-            <div class="cl_btn" style="margin-bottom: 0px;">LINEで予約</div>
+            <div class="cf_btn" style="margin-bottom: 0px;">LINEで予約</div>
+
+            <div class="cafl">
+                <div class="cafl_p"></div>
+                <div class="cafl_t">
+                    <h1>Candle Lesson</h1>
+                </div>
+            </div>
+            <div class="cafl2">
+                <p>ボタニカルキャンドル:￥3,800</p>
+                <p>ジェルキャンドル:¥4,200</p>
+                <p>ランタン:¥3,800</p>
+                <p id="cafl_txt_r">※アロマオイル使用 ¥300追加</p>
+            </div>
+            <div class="cafl_btn">LINEで予約</div>
+
+            <div class="aw">
+                <div class="aw_p"></div>
+                <div class="aw_t">
+                    <h1>Aroma wax Lesson</h1>
+                </div>
+            </div>
+            <div class="aw2">
+                <p>アロマワックスサシェ:¥3,800</p>
+                <p>アロマワックスカップ:¥4,000</p>
+                <p id="aw_txt_r" style="color:red; margin-bottom: 0px;">ディプロマ取得を目指す！</p>
+                <p>アロマワックスデザインコース:¥36,300</p>
+                <p id="aw_txt_r">※デザインコースではサシェ&カップ各５個制作して頂きます。テキスト、必要な道具、ワックス、修了書が付いています。</p>
+            </div>
+            <div class="aw_btn" style="margin-bottom: 0px;">LINEで予約</div>
+        </div>
+    </div>
+
+    <div class="main5">
+        <div class="main_concept5">
+            <p>※ レッスンは全て税込み価格です。
+            </br>体験レッスンはお一人様１回のみ。
+            </br>レッスンには花材、資材、レッスン料全て
+            </br>含まれております。
+            </br>必要な道具は教室にてご用意致しております。</p>
+            <p>※ リクエストレッスンはレッスン料のみの表示で
+            </br>花材が必要です。花材•資材の持ち込OK
+            </br>(30％OFFで販売も致しております)</p>
+            <p>※ アーティフィシャフラワーのディプロマにはコースレッスン後の試験(別途費用)に合格された方のみディプロマ発行が可能となります。ご希望の方はお問い合わせ下さい。</p>
         </div>
     </div>
 </body>
