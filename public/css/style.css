@@ -366,7 +366,6 @@
         background-position: center; /* 画像を中央に配置 */
         width: 100%; /* 要素の幅を100%に設定 */
         padding: 10px;
-        height: 1360px;
     }
     .main_concept_2 h2{
         font-size: 30px;
@@ -489,6 +488,15 @@
         padding: 3px;
         font-weight: bold;
     }
+    .main_concept4_2{
+        margin-top: 30px;
+        padding:15px;
+        width: 100%;
+        background-color: rgba(255, 255, 255, 0.3);
+        border-radius: 5px;
+        margin-bottom: 30px;
+        border: ridge;
+    }
 
     .main5{
         background-image: url("../img/main_photo.jpg");
@@ -496,15 +504,14 @@
         background-position: center; /* 画像を中央に配置 */
         width: 100%; /* 要素の幅を100%に設定 */
         padding: 10px;
-        height: 1360px;
     }
-    .main_concept5 h2{
-        font-size: 30px;
-        text-decoration: underline;
-        margin-bottom: 0px;
-        color: white;
-        text-decoration-color: white;
-        text-shadow: 1px 2px 3px #cbcbcb;
+    .main_concept4_2{
+        padding:15px;
+        width: 100%;
+        background-color: rgba(255, 255, 255, 0.3);
+        border-radius: 5px;
+        margin-bottom: 30px;
+        border: ridge;
     }
     .main_concept5{
         padding:15px;
@@ -513,6 +520,51 @@
         border-radius: 5px;
         margin-bottom: 30px;
         border: ridge;
+    }
+    .main_concept5 h2{
+        text-align: center;
+        border: double;
+    }
+
+    .main_concept5_1{
+        padding:15px;
+        width: 100%;
+        background-color: rgba(255, 255, 255, 0.3);
+        border-radius: 5px;
+        margin-bottom: 30px;
+        border: ridge;
+    }
+    .main_concept5_1 h2{
+        text-align: center;
+        border: double;
+    }
+
+    .main6{
+        background-image: url("../img/main_photo.jpg");
+        background-size: cover; /* 画面いっぱいに広がるように調整 */
+        background-position: center; /* 画像を中央に配置 */
+        width: 100%; /* 要素の幅を100%に設定 */
+        padding: 10px;
+    }
+    .main_concept6{
+        padding:15px;
+        width: 100%;
+        border-radius: 5px;
+        margin-bottom: 30px;
+    }
+    .main_concept6 h2 {
+        font-size: 30px;
+        text-decoration: underline;
+        margin-bottom: 0px;
+        color: white;
+        text-decoration-color: white;
+        text-shadow: 1px 2px 3px #cbcbcb;
+    }
+    .main_concept6 p {
+        font-size: 18px;
+        color: white;
+        text-shadow: 1px 2px 3px #cbcbcb;
+        font-weight: 300;
     }
 }
 
