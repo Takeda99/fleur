@@ -148,11 +148,8 @@
                 <p id="aw_txt_r">※デザインコースではサシェ&カップ各５個制作して頂きます。テキスト、必要な道具、ワックス、修了書が付いています。</p>
             </div>
             <div class="aw_btn" style="margin-bottom: 0px;">LINEで予約</div>
-        </div>
-    </div>
 
-    <div class="main5">
-        <div class="main_concept5">
+            <div class="main_concept4_2">
             <p>※ レッスンは全て税込み価格です。
             </br>体験レッスンはお一人様１回のみ。
             </br>レッスンには花材、資材、レッスン料全て
@@ -160,8 +157,29 @@
             </br>必要な道具は教室にてご用意致しております。</p>
             <p>※ リクエストレッスンはレッスン料のみの表示で
             </br>花材が必要です。花材•資材の持ち込OK
-            </br>(30％OFFで販売も致しております)</p>
+            </br>(30%OFFで販売も致しております)</p>
             <p>※ アーティフィシャフラワーのディプロマにはコースレッスン後の試験(別途費用)に合格された方のみディプロマ発行が可能となります。ご希望の方はお問い合わせ下さい。</p>
+        </div>
+        </div>
+    </div>
+
+    <div class="main5">
+        <div class="main_concept5">
+            <p>Atelier Fleurの情報から個人的な日常まで</p>
+            <h2>Blog</h2>
+        </div>
+        <div class="main_concept5_1">
+            <p>Atelier Fleur</p>
+            <h2>Online Shop</h2>
+        </div>
+    </div>
+    <div class="main6">
+        <div class="main_concept6">
+            <h2>Guide</h2>
+            <p>教室案内</p>
+            <div class="news_txt">
+                <a href="">・感染対策のお願い</a>
+            </div>
         </div>
     </div>
 </body>
